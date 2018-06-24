@@ -6,8 +6,8 @@ Class Youtube {
 
     /* Api Keyi Set Et */
 
-    public function setApiKey($key) {
-        $this->apiKey = $key;
+    public function setApiKey($apiKey) {
+        $this->apiKey = $apiKey;
     }
 
     /* Kanal Videolarını Çekme Fonksiyonu */
