@@ -1,5 +1,10 @@
 <?php
-// Agit - Karesoft
+
+/* Youtube API V3
+ * Author : Agit ISIK
+ * E-mail : agit@karesoft.com.tr
+ *
+ */
 Class Youtube {
 
     public $apiKey;
