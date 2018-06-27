@@ -1,9 +1,8 @@
 <?php
-
 /* Youtube API V3
  * Author : Agit ISIK
  * E-mail : agit@karesoft.com.tr
- *
+ * Date : 28.06.2018
  */
 Class Youtube {
 
